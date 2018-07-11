@@ -1,0 +1,4 @@
+/node_modules
+*.csv
+*.tar
+package-lock.json

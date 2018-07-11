@@ -1,0 +1,19 @@
+{
+  "name": "npm-package-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dharmendra.s",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.1",
+    "clear-console": "^1.1.0",
+    "merge-json": "0.1.0-b.3",
+    "ora": "^2.1.0"
+  },
+  "devDependencies": {}
+}
